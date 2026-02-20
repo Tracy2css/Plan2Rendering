@@ -1,0 +1,5 @@
+{
+  "name": "RoomAI",
+  "description": "Design and edit room renderings from text descriptions and plan drawings using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
